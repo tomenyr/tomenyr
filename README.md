@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Yuri 👋
 
-<!--
-**tomenyr/tomenyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner self-taught Python developer. Currently teaching children how to use SCRATCH. Outside of work I enjoy:
 
-Here are some ideas to get you started:
+- ⚽ Playing football
+- 🚴‍♀ Cycling
+- ⛺ Camping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 I’m currently learning... 
+- Python
+- HTML
+- CSS
+
+### 📫 How to reach me: 
+- Email: yuriitomen@gmail.com
+- <a href="https://www.instagram.com/tomen_9/">Instagram</a>
+
+### ⚡ Fun fact: ... 
+- I took third place in the Russian Race Walking Championship 🥉
