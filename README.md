@@ -1,6 +1,6 @@
 ### Hi, I'm Yuri 👋
 
-I'm a beginner self-taught Python developer. Currently teaching children how to use SCRATCH. Outside of work I enjoy:
+I'm a beginner self-taught Python developer. Outside of work I enjoy:
 
 - ⚽ Playing football
 - 🚴‍♀ Cycling
@@ -10,10 +10,10 @@ I'm a beginner self-taught Python developer. Currently teaching children how to 
 ### 🌱 I’m currently learning... 
 - Python
 - HTML
-- CSS
+- C++
 
 ### 📫 How to reach me: 
-- Email: yuriitomen@gmail.com
+- Email: ceanple9@gmail.com
 - <a href="https://www.instagram.com/tomen_9/">Instagram</a>
 
 ### ⚡ Fun fact: ... 
