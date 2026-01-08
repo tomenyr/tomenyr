@@ -8,7 +8,7 @@ I'm a beginner software developer. Outside of work I enjoy:
 
 
 ### 🌱 I’m currently learning... 
-- Java
+- 
 
 ### 📫 How to reach me: 
 - Email: ceanple9@gmail.com
